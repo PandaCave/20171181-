@@ -1,0 +1,6 @@
+[submodule "2017118101_android"]
+	path = 2017118101_android
+	url = https://github.com/sum20171181/2017118101_android.git
+[submodule "2017118102_android"]
+	path = 2017118102_android
+	url = https://github.com/xinyubian-hui/2017118102_android.git
