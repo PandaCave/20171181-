@@ -4,3 +4,6 @@
 [submodule "2017118102_android"]
 	path = 2017118102_android
 	url = https://github.com/xinyubian-hui/2017118102_android.git
+[submodule "2017118103_Android"]
+	path = 2017118103_Android
+	url = https://github.com/rohero6/2017118103_Android.git
