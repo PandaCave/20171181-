@@ -7,3 +7,15 @@
 [submodule "2017118103_Android"]
 	path = 2017118103_Android
 	url = https://github.com/rohero6/2017118103_Android.git
+[submodule "2017118104_android"]
+	path = 2017118104_android
+	url = https://github.com/xhao-xyb/2017118104_android.git
+[submodule "2017118105_Android"]
+	path = 2017118105_Android
+	url = https://github.com/HL-LD/2017118105_Android.git
+[submodule "2017118106_Android"]
+	path = 2017118106_Android
+	url = https://github.com/fallintotom/2017118106_Android.git
+[submodule "2017118108__Andriod"]
+	path = 2017118108__Andriod
+	url = https://github.com/JMchricomi/2017118108__Andriod.git
