@@ -19,3 +19,6 @@
 [submodule "2017118108__Andriod"]
 	path = 2017118108__Andriod
 	url = https://github.com/JMchricomi/2017118108__Andriod.git
+[submodule "2017118109_android"]
+	path = 2017118109_android
+	url = https://github.com/chentao-de/2017118109_android.git
