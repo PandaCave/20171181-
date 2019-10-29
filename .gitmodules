@@ -22,3 +22,6 @@
 [submodule "2017118109_android"]
 	path = 2017118109_android
 	url = https://github.com/chentao-de/2017118109_android.git
+[submodule "2017118110_Android"]
+	path = 2017118110_Android
+	url = https://github.com/15994919867/2017118110_Android.git
