@@ -145,3 +145,9 @@
 [submodule "2017267216_android"]
 	path = 2017267216_android
 	url = https://github.com/Ceaull/2017267216_android.git
+[submodule "2017118127_Android"]
+	path = 2017118127_Android
+	url = https://github.com/952788641/2017118127_Android.git
+[submodule "2017118142_android"]
+	path = 2017118142_android
+	url = https://github.com/minling910/2017118142_android.git
